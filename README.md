@@ -8,9 +8,9 @@
 
 ## Prepared admin
 
-    **Username**: admin
-    **Password**: admin123
+    Username: admin
+    Password: admin123
 
 ## Access API
 
-    **Requests Samples**: https://documenter.getpostman.com/view/16363895/2sA2xb7Fzf
+    Requests Samples: https://documenter.getpostman.com/view/16363895/2sA2xb7Fzf
